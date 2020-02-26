@@ -1,0 +1,17 @@
+# REDE SOCIAL- CATÁLOGO DE PREÇOS
+
+Desenvolver aplicação web com informações de preços dos produtos nos mais diferentes estabelecimentos comerciais
+a nivel nacional, para rápida consulta de preços pelos clientes finais. 
+
+Pagina index deve mostrar ultimos valores cadastrados de forma dinamica em uma listbox
+
+Deverar ter um botão cadastrar item e buscar item
+
+Na pagina cadastro deve ter o campo UF e Cidade, nome do estabelecimento comercial e endereço
+Deve haver a opção de cadastrar variaos produtos do mesmo estabelecimento
+Assim como a classificação do estabelecimento:
+1 Mercados
+2 Loja Automotiva
+3 Distribuidora de Alimentos
+4 Distribuidora de bebibdas
+5 
